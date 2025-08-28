@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+plotly>=5.0.0
+gradio>=4.0.0
+pillow>=8.0.0
+jupyter>=1.0.0
+pytransform3d>=2.0.0
